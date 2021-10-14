@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742295144613",
+    "project_id": "glints-test-c3153",
+    "storage_bucket": "glints-test-c3153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742295144613:android:4f5485d09099284502e54c",
+        "android_client_info": {
+          "package_name": "com.example.glints_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742295144613-o822do9hupsc45jb8o051ja8cc3964ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glints_test",
+            "certificate_hash": "43b8bad84a25360f13ff74b4e461942bdd4a127f"
+          }
+        },
+        {
+          "client_id": "742295144613-522btvr77u6lutl7e37e9hk5kka66nh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDSqYtoGFGZTRLcr0t2w5ZQd2MrWG1GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742295144613-522btvr77u6lutl7e37e9hk5kka66nh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
